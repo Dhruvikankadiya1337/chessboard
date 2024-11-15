@@ -1,0 +1,34 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.chessbox
+{
+    height: auto;
+    width: 64%;
+    border: 2px solid gray;
+    margin: auto;
+}
+.box1
+{
+    height: auto;
+    width: 800px;
+    flex-wrap: wrap;
+    margin: auto;
+    display: flex;
+
+}
+.brown
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+.wheat
+{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
